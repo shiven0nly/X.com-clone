@@ -1,6 +1,7 @@
 # X.com UI Clone 
 
-A **tried to make pixel-perfect frontend clone** of [X.com](https://x.com) (formerly Twitter), built using **React + Tailwind CSS**.
+ **tried to make pixel-perfect frontend clone** of [X.com](https://x.com) (formerly Twitter), built using **React + Tailwind CSS**.
+**Deployed for Laptop here for Laptop Only**: https://taupe-cocada-476ffc.netlify.app/
 
 > ⚛️ This is my first React + Tailwind project — built for learning & practice.
 
