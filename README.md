@@ -29,18 +29,6 @@ A **tried to make pixel-perfect frontend clone** of [X.com](https://x.com) (form
 
 ---
 
-## 📁 Folder Structure
-x-clone/
-├── public/
-├── src/
-│ ├── components/
-│ └── App.jsx
-├── package.json
-├── tailwind.config.js
-└── vite.config.js
-
-
----
 
 ## 🚀 Getting Started (For Devs)
 
