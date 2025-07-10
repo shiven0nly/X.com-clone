@@ -8,6 +8,7 @@ import Post from "./components/Post";
 import Happening from "./components/Happening";
 import Feed from "./components/Feed";
 import Feed2 from "./components/Feed2";
+import Logo from "./components/Logo";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
         <div className="flex">
           {/* Left Sidebar */}
           <div className="first flex-1 px-[2.2rem] left-41 fixed border-r border-[#ffffff60] min-h-screen ">
+            <Logo />
             <Sidebar />
           </div>
 
