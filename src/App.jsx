@@ -1,7 +1,7 @@
 import React from "react";
 import "./index.css";
 import Sidebar from "./components/Sidebar";
-import Searchbar from "./components/searchbar";
+import Searchbar from "./components/Searchbar";
 import Subscribe from "./components/Subscribe";
 import Navbar from "./components/Navbar";
 import Post from "./components/Post";
