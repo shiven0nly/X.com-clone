@@ -1,6 +1,5 @@
 import React from "react";
 import "./index.css";
-import Logo from "./components/logo";
 import Sidebar from "./components/Sidebar";
 import Searchbar from "./components/searchbar";
 import Subscribe from "./components/Subscribe";
@@ -9,6 +8,7 @@ import Post from "./components/Post";
 import Happening from "./components/Happening";
 import Feed from "./components/Feed";
 import Feed2 from "./components/Feed2";
+import Logo from "./components/logo"
 
 const App = () => {
   return (
